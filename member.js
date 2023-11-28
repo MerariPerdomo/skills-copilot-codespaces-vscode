@@ -1,12 +1,7 @@
-function skillsMember(){
-    return{
-        restrict: 'E',
-        templateUrl: 'directives/member.html',
-        controller: 'SkillsMemberCtrl',
-        controllerAs: 'memberCtrl',
-        bindToController: true,
-        scope: {
-          member: '='
-        }
-      };
+function skillsMember() {
+    // code goes here
+
+    // Add your code here
+    console.log("I am a member of the skills.js file");
+    
 }
